@@ -23104,6 +23104,7 @@ PrefabInstance:
     - target: {fileID: 6576607644387126882, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
       propertyPath: m_Tiles.Array.data[1037].second.m_TileSpriteIndex
       value: 0
       objectReference: {fileID: 0}
@@ -31904,6 +31905,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6576607644387126882, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
+=======
+>>>>>>> parent of 0525e32 (ocean)
 =======
 >>>>>>> parent of 0525e32 (ocean)
       propertyPath: m_Tiles.Array.data[0].second.m_TileObjectToInstantiateIndex
